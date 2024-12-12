@@ -1,5 +1,2 @@
-# bypass-fortiguard
+use IKEv2 VPN
 
-#U CANT
-
-wip
