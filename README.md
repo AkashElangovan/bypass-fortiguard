@@ -29,3 +29,6 @@
 ## 5. Stay Legal and Ethical
 - **Understand Restrictions**: Be aware of the reasons behind the Wi-Fi restrictions. Bypassing them may violate terms of service or local laws.
 - **Use Responsibly**: Use VPNs responsibly and only for legitimate purposes. Avoid activities that could be considered illegal or unethical.
+
+## 5. USE NextDNS
+- Its a simple way to add another layer for your VPN
